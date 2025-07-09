@@ -33,7 +33,7 @@ AXIA_API_KEY = os.environ["AXIA_API_KEY"]
 # HANDWRITING/test/*.jpg are the input images.
 
 
-class NameEvaluator(Evaluator[str, str]):
+class SimilarityEvaluator(Evaluator[str, str]):
     """
     Evaluator for comparing handwritten names.
     Uses sequence matching to calculate similarity between extracted and expected names.
@@ -51,6 +51,33 @@ class NameEvaluator(Evaluator[str, str]):
             result = "EMPTY"
 
         return SequenceMatcher(None, result.upper(), ctx.expected_output['name'].upper()).ratio()
+
+
+class ExactEvaluator(Evaluator[str, str]):
+    """
+    Evaluator for exact matching of handwritten names.
+    Uses binary matching: 1.0 for exact match, 0.0 otherwise.
+    """
+
+    def _normalize_name(self, name: str) -> str:
+        """Normalize name for comparison (uppercase, strip whitespace)."""
+        return name.strip().upper()
+
+    def evaluate(self, ctx: EvaluatorContext) -> float:
+        try:
+            result = ctx.output['name']
+        except KeyError:
+            logger.warning(f"Output does not contain 'name' key for case {ctx.inputs}")
+            return 0.0
+        
+        if not result:
+            logger.warning(f"Output 'name' is empty for case {ctx.inputs}")
+            result = "EMPTY"
+
+        normalized_result = self._normalize_name(result)
+        normalized_expected = self._normalize_name(ctx.expected_output['name'])
+        
+        return 1.0 if normalized_result == normalized_expected else 0.0
 
 
 def load_dataset() -> Dataset:
@@ -71,7 +98,8 @@ def load_dataset() -> Dataset:
     return Dataset(
         cases=cases,
         evaluators=[
-            NameEvaluator(),
+            SimilarityEvaluator(),
+            ExactEvaluator(),
         ],
     )
 

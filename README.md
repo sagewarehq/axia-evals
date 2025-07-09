@@ -21,21 +21,28 @@ Evaluates handwritten name extraction from the handwriting recognition dataset.
 **Dataset**: HANDWRITING images with expected name labels  
 **API Endpoint**: `/api/extract/Name`  
 **Evaluators**:
-- **NameEvaluator**: String similarity matching for extracted names
+- **SimilarityEvaluator**: String similarity matching for extracted names
+- **ExactEvaluator**: Binary exact matching for extracted names
 
 ## Setup
 
-1. Set the AXIA API key environment variable:
+1. Create and activate a virtual environment:
 ```bash
-export AXIA_API_KEY=your_api_key_here
+python -m venv .venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 ```
 
 2. Install dependencies:
 ```bash
-pip install aiohttp pydantic-evals python-dateutil pyyaml
+pip install -r requirements.txt
 ```
 
-3. Ensure datasets are available:
+3. Set the AXIA API key environment variable:
+```bash
+export AXIA_API_KEY=your_api_key_here
+```
+
+4. Ensure datasets are available:
    - SROIE2019: `SROIE2019/cases.yaml` and corresponding image/text files
    - Handwriting: `HANDWRITING/written_name_test_short.csv` and test images
 
@@ -43,12 +50,12 @@ pip install aiohttp pydantic-evals python-dateutil pyyaml
 
 Run the SROIE 2019 evaluation:
 ```bash
-python eval_sroie2019.py
+python -m eval_sroie2019
 ```
 
 Run the handwriting evaluation:
 ```bash
-python eval_handwriting.py
+python -m eval_handwriting
 ```
 
 Both scripts support concurrent processing (20 concurrent requests) and provide detailed evaluation reports including input/output comparisons and timing information.
