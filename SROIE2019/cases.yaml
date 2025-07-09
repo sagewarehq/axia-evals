@@ -1,0 +1,1042 @@
+cases:
+  - name: X00016469670
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X00016469670.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X00016469670.txt
+  - name: X00016469671
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X00016469671.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X00016469671.txt
+  - name: X51005200931
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005200931.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005200931.txt
+  - name: X51005230605
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005230605.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005230605.txt
+  - name: X51005230616
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005230616.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005230616.txt
+  - name: X51005230621
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005230621.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005230621.txt
+  - name: X51005230648
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005230648.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005230648.txt
+  - name: X51005230657
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005230657.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005230657.txt
+  - name: X51005230659
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005230659.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005230659.txt
+  - name: X51005268275
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005268275.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005268275.txt
+  - name: X51005268408
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005268408.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005268408.txt
+  - name: X51005288570
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005288570.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005288570.txt
+  - name: X51005301666
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005301666.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005301666.txt
+  - name: X51005337867
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005337867.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005337867.txt
+  - name: X51005337877
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005337877.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005337877.txt
+  - name: X51005361906
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005361906.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005361906.txt
+  - name: X51005361908
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005361908.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005361908.txt
+  - name: X51005361912
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005361912.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005361912.txt
+  - name: X51005361923
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005361923.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005361923.txt
+  - name: X51005365187
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005365187.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005365187.txt
+  - name: X51005433518
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005433518.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005433518.txt
+  - name: X51005433543
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005433543.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005433543.txt
+  - name: X51005433548
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005433548.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005433548.txt
+  - name: X51005433556
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005433556.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005433556.txt
+  - name: X51005442322
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005442322.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005442322.txt
+  - name: X51005442334
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005442334.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005442334.txt
+  - name: X51005442343
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005442343.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005442343.txt
+  - name: X51005442366
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005442366.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005442366.txt
+  - name: X51005442375
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005442375.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005442375.txt
+  - name: X51005442382
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005442382.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005442382.txt
+  - name: X51005442388
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005442388.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005442388.txt
+  - name: X51005444040
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005444040.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005444040.txt
+  - name: X51005444041
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005444041.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005444041.txt
+  - name: X51005444044
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005444044.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005444044.txt
+  - name: X51005444046
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005444046.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005444046.txt
+  - name: X51005447841
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005447841.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005447841.txt
+  - name: X51005447842
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005447842.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005447842.txt
+  - name: X51005447844
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005447844.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005447844.txt
+  - name: X51005447851
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005447851.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005447851.txt
+  - name: X51005447859
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005447859.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005447859.txt
+  - name: X51005568855
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005568855.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005568855.txt
+  - name: X51005568866
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005568866.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005568866.txt
+  - name: X51005568885
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005568885.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005568885.txt
+  - name: X51005568887
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005568887.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005568887.txt
+  - name: X51005568889
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005568889.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005568889.txt
+  - name: X51005568890
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005568890.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005568890.txt
+  - name: X51005568892
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005568892.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005568892.txt
+  - name: X51005568894
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005568894.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005568894.txt
+  - name: X51005568895
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005568895.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005568895.txt
+  - name: X51005577191
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005577191.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005577191.txt
+  - name: X51005582745
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005582745.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005582745.txt
+  - name: X51005587261
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005587261.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005587261.txt
+  - name: X51005605287
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005605287.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005605287.txt
+  - name: X51005605295
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005605295.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005605295.txt
+  - name: X51005605332
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005605332.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005605332.txt
+  - name: X51005621482
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005621482.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005621482.txt
+  - name: X51005663274
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005663274.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005663274.txt
+  - name: X51005663300
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005663300.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005663300.txt
+  - name: X51005663307
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005663307.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005663307.txt
+  - name: X51005663309
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005663309.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005663309.txt
+  - name: X51005663310
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005663310.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005663310.txt
+  - name: X51005663323
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005663323.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005663323.txt
+  - name: X51005675099
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005675099.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005675099.txt
+  - name: X51005675103
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005675103.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005675103.txt
+  - name: X51005675104
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005675104.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005675104.txt
+  - name: X51005675914
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005675914.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005675914.txt
+  - name: X51005676534
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005676534.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005676534.txt
+  - name: X51005676535
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005676535.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005676535.txt
+  - name: X51005676537
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005676537.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005676537.txt
+  - name: X51005676542
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005676542.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005676542.txt
+  - name: X51005676548
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005676548.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005676548.txt
+  - name: X51005677327
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005677327.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005677327.txt
+  - name: X51005677333
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005677333.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005677333.txt
+  - name: X51005677336
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005677336.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005677336.txt
+  - name: X51005677337
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005677337.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005677337.txt
+  - name: X510056849111
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X510056849111.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X510056849111.txt
+  - name: X51005684949
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005684949.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005684949.txt
+  - name: X51005705727
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005705727.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005705727.txt
+  - name: X51005705729
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005705729.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005705729.txt
+  - name: X51005705784
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005705784.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005705784.txt
+  - name: X51005710963
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005710963.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005710963.txt
+  - name: X51005711402
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005711402.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005711402.txt
+  - name: X51005711443
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005711443.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005711443.txt
+  - name: X51005711444
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005711444.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005711444.txt
+  - name: X51005711446
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005711446.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005711446.txt
+  - name: X51005711449
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005711449.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005711449.txt
+  - name: X51005715007
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005715007.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005715007.txt
+  - name: X51005715455
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005715455.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005715455.txt
+  - name: X51005719823
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005719823.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005719823.txt
+  - name: X51005719855
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005719855.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005719855.txt
+  - name: X51005719857
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005719857.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005719857.txt
+  - name: X51005719863
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005719863.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005719863.txt
+  - name: X51005719888
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005719888.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005719888.txt
+  - name: X51005719889
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005719889.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005719889.txt
+  - name: X51005719895
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005719895.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005719895.txt
+  - name: X51005719898
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005719898.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005719898.txt
+  - name: X51005719903
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005719903.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005719903.txt
+  - name: X51005719905
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005719905.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005719905.txt
+  - name: X51005724552
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005724552.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005724552.txt
+  - name: X51005724611
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005724611.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005724611.txt
+  - name: X51005724622
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005724622.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005724622.txt
+  - name: X51005724623
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005724623.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005724623.txt
+  - name: X51005724624
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005724624.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005724624.txt
+  - name: X51005724625
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005724625.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005724625.txt
+  - name: X51005724626
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005724626.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005724626.txt
+  - name: X51005724628
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005724628.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005724628.txt
+  - name: X51005741929
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005741929.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005741929.txt
+  - name: X51005742110
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005742110.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005742110.txt
+  - name: X51005745213
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005745213.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005745213.txt
+  - name: X51005745244
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005745244.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005745244.txt
+  - name: X51005745298
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005745298.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005745298.txt
+  - name: X51005746203
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005746203.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005746203.txt
+  - name: X51005746204
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005746204.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005746204.txt
+  - name: X51005746206
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005746206.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005746206.txt
+  - name: X51005746207
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005746207.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005746207.txt
+  - name: X51005746210
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005746210.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005746210.txt
+  - name: X51005749904
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005749904.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005749904.txt
+  - name: X51005757233
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005757233.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005757233.txt
+  - name: X51005757282
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005757282.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005757282.txt
+  - name: X51005757292
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005757292.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005757292.txt
+  - name: X51005757308
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005757308.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005757308.txt
+  - name: X51005757342
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005757342.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005757342.txt
+  - name: X51005763958
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005763958.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005763958.txt
+  - name: X51005763964
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005763964.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005763964.txt
+  - name: X51005763999
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005763999.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005763999.txt
+  - name: X51005764031
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005764031.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005764031.txt
+  - name: X51005764154
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005764154.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005764154.txt
+  - name: X51005764161
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005764161.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005764161.txt
+  - name: X51005806692
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005806692.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005806692.txt
+  - name: X51005806695
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005806695.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005806695.txt
+  - name: X51005806696
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005806696.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005806696.txt
+  - name: X51005806718
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005806718.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005806718.txt
+  - name: X51005806719
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005806719.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005806719.txt
+  - name: X51005806720
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51005806720.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51005806720.txt
+  - name: X51006008081
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006008081.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006008081.txt
+  - name: X51006008082
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006008082.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006008082.txt
+  - name: X51006008083
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006008083.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006008083.txt
+  - name: X51006008090
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006008090.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006008090.txt
+  - name: X51006008092
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006008092.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006008092.txt
+  - name: X51006008093
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006008093.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006008093.txt
+  - name: X51006008105
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006008105.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006008105.txt
+  - name: X51006008166
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006008166.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006008166.txt
+  - name: X51006008206
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006008206.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006008206.txt
+  - name: X51006248253
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006248253.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006248253.txt
+  - name: X51006311714
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006311714.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006311714.txt
+  - name: X51006327953
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006327953.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006327953.txt
+  - name: X51006327960
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006327960.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006327960.txt
+  - name: X51006328345
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006328345.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006328345.txt
+  - name: X51006328937
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006328937.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006328937.txt
+  - name: X51006328967
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006328967.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006328967.txt
+  - name: X51006329183
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006329183.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006329183.txt
+  - name: X51006329388
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006329388.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006329388.txt
+  - name: X51006332641
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006332641.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006332641.txt
+  - name: X51006334139
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006334139.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006334139.txt
+  - name: X51006334742
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006334742.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006334742.txt
+  - name: X51006334766
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006334766.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006334766.txt
+  - name: X51006334770
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006334770.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006334770.txt
+  - name: X51006334819
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006334819.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006334819.txt
+  - name: X51006334927
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006334927.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006334927.txt
+  - name: X51006335818
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006335818.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006335818.txt
+  - name: X51006349081
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006349081.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006349081.txt
+  - name: X51006349083
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006349083.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006349083.txt
+  - name: X51006349085
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006349085.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006349085.txt
+  - name: X51006350737
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006350737.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006350737.txt
+  - name: X51006387660
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006387660.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006387660.txt
+  - name: X51006387737
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006387737.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006387737.txt
+  - name: X51006387931
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006387931.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006387931.txt
+  - name: X51006387950
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006387950.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006387950.txt
+  - name: X51006387973
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006387973.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006387973.txt
+  - name: X51006388068
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006388068.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006388068.txt
+  - name: X51006388081
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006388081.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006388081.txt
+  - name: X51006388089
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006388089.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006388089.txt
+  - name: X51006389894
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006389894.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006389894.txt
+  - name: X51006389898
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006389898.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006389898.txt
+  - name: X51006392167
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006392167.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006392167.txt
+  - name: X51006401845
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006401845.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006401845.txt
+  - name: X51006401853
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006401853.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006401853.txt
+  - name: X51006401977
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006401977.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006401977.txt
+  - name: X51006414425
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006414425.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006414425.txt
+  - name: X51006414427
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006414427.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006414427.txt
+  - name: X51006414433
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006414433.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006414433.txt
+  - name: X51006414512
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006414512.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006414512.txt
+  - name: X51006414532
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006414532.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006414532.txt
+  - name: X51006414593
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006414593.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006414593.txt
+  - name: X51006414600
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006414600.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006414600.txt
+  - name: X51006414702
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006414702.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006414702.txt
+  - name: X51006414708
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006414708.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006414708.txt
+  - name: X51006414715
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006414715.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006414715.txt
+  - name: X51006414717
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006414717.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006414717.txt
+  - name: X51006414728
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006414728.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006414728.txt
+  - name: X51006438346
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006438346.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006438346.txt
+  - name: X51006466070
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006466070.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006466070.txt
+  - name: X51006502534
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006502534.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006502534.txt
+  - name: X51006502540
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006502540.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006502540.txt
+  - name: X51006554841
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006554841.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006554841.txt
+  - name: X51006555819
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006555819.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006555819.txt
+  - name: X51006555833
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006555833.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006555833.txt
+  - name: X51006555835
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006555835.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006555835.txt
+  - name: X51006556610
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006556610.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006556610.txt
+  - name: X51006556648
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006556648.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006556648.txt
+  - name: X51006556654
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006556654.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006556654.txt
+  - name: X51006556657
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006556657.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006556657.txt
+  - name: X51006556658
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006556658.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006556658.txt
+  - name: X51006556723
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006556723.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006556723.txt
+  - name: X51006556728
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006556728.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006556728.txt
+  - name: X51006556734
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006556734.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006556734.txt
+  - name: X51006556740
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006556740.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006556740.txt
+  - name: X51006556806
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006556806.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006556806.txt
+  - name: X51006556808
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006556808.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006556808.txt
+  - name: X51006556809
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006556809.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006556809.txt
+  - name: X51006556810
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006556810.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006556810.txt
+  - name: X51006556812
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006556812.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006556812.txt
+  - name: X51006556821
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006556821.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006556821.txt
+  - name: X51006556826
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006556826.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006556826.txt
+  - name: X51006556827
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006556827.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006556827.txt
+  - name: X51006556829
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006556829.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006556829.txt
+  - name: X51006556851
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006556851.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006556851.txt
+  - name: X51006556865
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006556865.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006556865.txt
+  - name: X51006557115
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006557115.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006557115.txt
+  - name: X51006557169
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006557169.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006557169.txt
+  - name: X51006557173
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006557173.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006557173.txt
+  - name: X51006557187
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006557187.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006557187.txt
+  - name: X51006557194
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006557194.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006557194.txt
+  - name: X51006557196
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006557196.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006557196.txt
+  - name: X51006557208
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006557208.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006557208.txt
+  - name: X51006557209
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006557209.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006557209.txt
+  - name: X51006557507
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006557507.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006557507.txt
+  - name: X51006619328
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006619328.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006619328.txt
+  - name: X51006619338
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006619338.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006619338.txt
+  - name: X51006619346
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006619346.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006619346.txt
+  - name: X51006619503
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006619503.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006619503.txt
+  - name: X51006619506
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006619506.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006619506.txt
+  - name: X51006619507
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006619507.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006619507.txt
+  - name: X51006619509
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006619509.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006619509.txt
+  - name: X51006619564
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006619564.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006619564.txt
+  - name: X51006619567
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006619567.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006619567.txt
+  - name: X51006619569
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006619569.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006619569.txt
+  - name: X51006619570
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006619570.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006619570.txt
+  - name: X51006619700
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006619700.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006619700.txt
+  - name: X51006619703
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006619703.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006619703.txt
+  - name: X51006619704
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006619704.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006619704.txt
+  - name: X51006619757
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006619757.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006619757.txt
+  - name: X51006619760
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006619760.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006619760.txt
+  - name: X51006619764
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006619764.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006619764.txt
+  - name: X51006619766
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006619766.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006619766.txt
+  - name: X51006619779
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006619779.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006619779.txt
+  - name: X51006619784
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006619784.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006619784.txt
+  - name: X51006619790
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006619790.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006619790.txt
+  - name: X51006619842
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006619842.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006619842.txt
+  - name: X51006619863
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006619863.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006619863.txt
+  - name: X51006619869
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006619869.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006619869.txt
+  - name: X51006620175
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006620175.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006620175.txt
+  - name: X51006620182
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006620182.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006620182.txt
+  - name: X51006620192
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006620192.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006620192.txt
+  - name: X51006620437
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006620437.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006620437.txt
+  - name: X51006647933
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006647933.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006647933.txt
+  - name: X51006647984
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006647984.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006647984.txt
+  - name: X51006733495
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006733495.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006733495.txt
+  - name: X51006828199
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006828199.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006828199.txt
+  - name: X51006828200
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006828200.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006828200.txt
+  - name: X51006828201
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006828201.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006828201.txt
+  - name: X51006856982
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006856982.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006856982.txt
+  - name: X51006857126
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006857126.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006857126.txt
+  - name: X51006857132
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006857132.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006857132.txt
+  - name: X51006857137
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006857137.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006857137.txt
+  - name: X51006857540
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006857540.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006857540.txt
+  - name: X51006912959
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006912959.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006912959.txt
+  - name: X51006912976
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006912976.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006912976.txt
+  - name: X51006912998
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006912998.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006912998.txt
+  - name: X51006913018
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006913018.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006913018.txt
+  - name: X51006913032
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006913032.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006913032.txt
+  - name: X51006913060
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006913060.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006913060.txt
+  - name: X51006913061
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51006913061.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51006913061.txt
+  - name: X51007103597
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007103597.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007103597.txt
+  - name: X51007103610
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007103610.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007103610.txt
+  - name: X51007103649
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007103649.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007103649.txt
+  - name: X51007103668
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007103668.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007103668.txt
+  - name: X51007103687
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007103687.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007103687.txt
+  - name: X51007225406
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007225406.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007225406.txt
+  - name: X51007231274
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007231274.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007231274.txt
+  - name: X51007231275
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007231275.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007231275.txt
+  - name: X51007231276
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007231276.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007231276.txt
+  - name: X51007231331
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007231331.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007231331.txt
+  - name: X51007231341
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007231341.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007231341.txt
+  - name: X51007231343
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007231343.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007231343.txt
+  - name: X51007231346
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007231346.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007231346.txt
+  - name: X51007231364
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007231364.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007231364.txt
+  - name: X51007231372
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007231372.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007231372.txt
+  - name: X51007339105
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007339105.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007339105.txt
+  - name: X51007339109
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007339109.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007339109.txt
+  - name: X51007339116
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007339116.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007339116.txt
+  - name: X51007339119
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007339119.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007339119.txt
+  - name: X51007339121
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007339121.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007339121.txt
+  - name: X51007339122
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007339122.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007339122.txt
+  - name: X51007339125
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007339125.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007339125.txt
+  - name: X51007339127
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007339127.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007339127.txt
+  - name: X51007339134
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007339134.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007339134.txt
+  - name: X51007339159
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007339159.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007339159.txt
+  - name: X51007339160
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007339160.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007339160.txt
+  - name: X51007339161
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007339161.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007339161.txt
+  - name: X51007339163
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007339163.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007339163.txt
+  - name: X51007339638
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007339638.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007339638.txt
+  - name: X51007391390
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007391390.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007391390.txt
+  - name: X51007433809
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007433809.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007433809.txt
+  - name: X51007579714
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007579714.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007579714.txt
+  - name: X51007579719
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007579719.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007579719.txt
+  - name: X51007579725
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007579725.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007579725.txt
+  - name: X51007846266
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007846266.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007846266.txt
+  - name: X51007846268
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007846268.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007846268.txt
+  - name: X51007846282
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007846282.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007846282.txt
+  - name: X51007846283
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007846283.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007846283.txt
+  - name: X51007846288
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007846288.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007846288.txt
+  - name: X51007846289
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007846289.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007846289.txt
+  - name: X51007846290
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007846290.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007846290.txt
+  - name: X51007846303
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007846303.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007846303.txt
+  - name: X51007846304
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007846304.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007846304.txt
+  - name: X51007846310
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007846310.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007846310.txt
+  - name: X51007846321
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007846321.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007846321.txt
+  - name: X51007846355
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007846355.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007846355.txt
+  - name: X51007846358
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007846358.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007846358.txt
+  - name: X51007846360
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007846360.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007846360.txt
+  - name: X51007846361
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007846361.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007846361.txt
+  - name: X51007846371
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007846371.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007846371.txt
+  - name: X51007846372
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007846372.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007846372.txt
+  - name: X51007846379
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007846379.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007846379.txt
+  - name: X51007846387
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007846387.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007846387.txt
+  - name: X51007846392
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007846392.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007846392.txt
+  - name: X51007846396
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007846396.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007846396.txt
+  - name: X51007846397
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007846397.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007846397.txt
+  - name: X51007846400
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007846400.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007846400.txt
+  - name: X51007846403
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51007846403.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51007846403.txt
+  - name: X51008030561
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51008030561.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51008030561.txt
+  - name: X51008030563
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51008030563.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51008030563.txt
+  - name: X51008042779
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51008042779.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51008042779.txt
+  - name: X51008042780
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51008042780.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51008042780.txt
+  - name: X51008042781
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51008042781.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51008042781.txt
+  - name: X51008042786
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51008042786.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51008042786.txt
+  - name: X51008042787
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51008042787.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51008042787.txt
+  - name: X51008099047
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51008099047.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51008099047.txt
+  - name: X51008099086
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51008099086.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51008099086.txt
+  - name: X51008099088
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51008099088.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51008099088.txt
+  - name: X51008099090
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51008099090.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51008099090.txt
+  - name: X51008099100
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51008099100.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51008099100.txt
+  - name: X51009008095
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51009008095.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51009008095.txt
+  - name: X51009447842
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51009447842.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51009447842.txt
+  - name: X51009453729
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51009453729.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51009453729.txt
+  - name: X51009568881
+    inputs: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/img/X51009568881.jpg
+    expected_output: /Users/jesse/Workspace/axia/testdata/SROIE2019/test/entities/X51009568881.txt
